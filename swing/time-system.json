@@ -1,0 +1,44 @@
+{
+  "voices" : ["ride","hat","snaredrum","bassdrum"] ,
+  "duration" : 4 ,
+  "signature" : 3 ,
+  "variations" : 
+    [
+      {
+        "duration" : 1,
+ 	"ride" : [0,3,3,3,3] ,
+	"hat" : [3,6,3]
+      } ,
+      {
+        "duration" : 1,
+ 	"ride" : [0,3,3,3,2,1] ,
+	"hat" : [3,6,3]
+      }  ,
+      {
+        "duration" : 1,
+ 	"ride" : [0,3,2,1,3,2,1] ,
+	"hat" : [3,6,3]
+      }   ,
+      {
+        "duration" : 1,
+ 	"ride" : [0,3,2,1,3,3] ,
+	"hat" : [3,6,3]
+      }   ,
+      {
+        "duration" : 1,
+ 	"ride" : [0,3,2,3,1,3] ,
+	"hat" : [3,6,3]
+      }  ,
+      {
+        "duration" : 1,
+ 	"ride" : [0,2,1,3,2,3,1] ,
+	"hat" : [3,6,3]
+      }   
+    ] ,
+
+  "melody" : 
+  {
+    "function" : "time-melody-2voice.json" ,
+    "instruments" :  ["snaredrum","bassdrum"]
+  }
+}
